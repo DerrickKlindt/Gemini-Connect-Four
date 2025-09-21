@@ -1,0 +1,5 @@
+{
+  "name": "Connect Four with Gemini",
+  "description": "A classic Connect Four game where you can challenge a powerful AI opponent powered by the Gemini API. Drop your discs and try to get four in a row before the AI outsmarts you.",
+  "requestFramePermissions": []
+}
